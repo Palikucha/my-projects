@@ -9,10 +9,7 @@
 # Ispis: Durski akord: C, E, G
 #           Molski akord: C, D#, 
 
-#GPT prompt:
-# #kreiraj program koji će od korisnika tražiti da unese notu iz glazbene abecede (C, C#, D, D#, E, F, F#, G, G#, A, A#, B), te na temelju te note treba isprintati dur ili mol akord.
-# durski akord čine: početni ton, četvrti ton, te sedmi ton.
-# molski akord čine: početni ton, treći ton, te sedmi ton
+
 
 # def pimp_my_akord(nota):
 #     tonovi = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
